@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="coding.png" style="width: 500px; height: 500px;">
+  <img src="coding.png" style="width: 350px; height: 350px;">
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Harsh</h1>
