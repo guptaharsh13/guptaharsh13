@@ -2,7 +2,7 @@
   <img src="coding.png" style="width: 350px; height: 350px;">
 </p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Harsh</h1>
+<h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">I'm a passionate Full Stack Developer and Freelancer.</h3>
 
 ## 🙋‍♂️ About Me
