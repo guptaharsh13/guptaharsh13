@@ -1,4 +1,4 @@
-<h3 align="center">I'm Harsh, a passionate full-stack developer and freelancer ✌🏻</h3>
+<h2 align="center">I'm Harsh, a passionate full-stack developer and freelancer ✌🏻</h2>
 
 ## 🙋‍♂️ About Me
 
