@@ -1,55 +1,28 @@
-<p align="center">
-  <img src="coding.png" style="width: 350px; height: 350px;">
-</p>
-
-<h1 align="center">Hi 👋, I'm Harsh</h1>
-<h3 align="center">I'm a passionate Full Stack Developer and Freelancer.</h3>
+<h3 align="center">I'm Harsh, a passionate full-stack developer and freelancer ✌🏻</h3>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on multiple web development projects and Python Scripts.
-- 🌱 I’m currently learning Data Structures and Algorithms, WebRTC, django-rest and React.
-- 👯 I’m looking to work as a Freelancer.
-- 🤔 I’m looking for help with contribution to open-source projects.
-- 📫 How to reach me: [hg242322@gmail.com](mailto:hg242322@gmail.com)
-- ⚡ Fun fact: Python is my favourite programming language
+- Software Engineering Intern at [Luganodes](https://luganodes.com)
+- I'm delving into the world of Web3 and eagerly anticipating its role in shaping my career.
+- I’m open to working as a freelancer.
+- I’m looking for help with contribution to open-source projects.
+- How to reach me: [hg242322@gmail.com](mailto:hg242322@gmail.com)
 
 ## 🚀 Languages and Tools:
 
-- Python
+- Go
+- JS and Typescript
+- NodeJS (Express and NestJS)
+- Python3
 - Web Scraping (using Selenium, Scrapy and BeautifulSoup4)
 - Django
 - django-rest
-- Node JS
-- HTML, CSS and Javascript
 - React
 
 ## 🔮 Future Goals:
 
-- Explore Ethical Hacking as a domain.
-- Get into the world of blockchain, and maybe learn Etherium OR contribute to Bitcoin.
-
-<!-- <p align="center">
-    <a href="https://github.com/guptaharsh13/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=guptaharsh13&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p> -->
-
-## 📊 My Github Stats
-
-<!--   <br/> -->
-<!--     <a href="https://github.com/guptaharsh13/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=guptaharsh13&show_icons=true&count_private=true&theme=eact&hide_border=true&bg_color=0D1117" /></a> -->
-  <a href="https://github.com/guptaharsh13/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptaharsh13&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<br/>
-<br/>
-
-<a href="https://github.com/guptaharsh13/github-readme-activity-graph"><img alt="Harsh Gupta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=guptaharsh13&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
+- Explore Cybersecurity as a domain.
+- Crack OSCP someday 🤔
 
 ## Connect with me:
 
